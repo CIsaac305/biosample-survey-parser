@@ -1,0 +1,14 @@
+# Generated CSV results
+*.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local Python environments
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
